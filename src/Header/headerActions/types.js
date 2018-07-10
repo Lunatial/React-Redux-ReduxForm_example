@@ -1,0 +1,1 @@
+export const NEW_FONTCOLOUR = "NEW_FONTCOLOUR";

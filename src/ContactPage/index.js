@@ -9,9 +9,7 @@ export default class ContactPage extends React.Component {
 
     render() {
         return (
-            <ContactForm
-                onSubmit={this.submit}
-            />
+            <ContactForm onSubmit={this.submit}/>
         )
     }
 }
